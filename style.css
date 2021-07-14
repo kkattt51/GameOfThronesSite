@@ -4,10 +4,6 @@ body {
   font-family: Montserrat, Helvetica, sans-serif;
 }
 
-.info {
-  color: red;
-}
-
 .title {
   font-size: 48px;
 }
@@ -18,4 +14,8 @@ body {
 
 .position {
   color: #FF3232;
+}
+
+.text {
+  font-size: 14px;
 }
